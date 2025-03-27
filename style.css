@@ -71,11 +71,13 @@ button{
     flex-wrap: wrap;
     width:450px;
 }
-
+.secondmain{
+    margin-bottom: 150px;
+}
 .secondtext{
     display:flex;
     justify-content: center;
-    margin-top: 40px;
+    margin-top: 80px;
     font-size: 36px;
     color:#1F2937;
     font-weight: 900;
@@ -102,3 +104,38 @@ button{
     flex-wrap: wrap;
     width:175px;
 }
+
+.ctmain{
+    display:flex;
+    background-color: #E5E7Eb;
+    justify-content: center;
+    height:500px;
+}
+
+
+
+.quote{
+    display:flex;
+    align-items: center;
+    font-size: 40px;
+    font-style: italic;
+    color: #1F2937;
+    padding: 175px;
+    width:1000px;
+}
+
+.csig{
+    display: flex;
+    justify-content: right;
+    padding: 0 250px;
+}
+.sig{
+    position: relative;
+    bottom: 150px;
+}
+
+.sig{
+    font-weight: bold;
+    font-size: 30px;
+}
+
