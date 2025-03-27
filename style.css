@@ -71,3 +71,34 @@ button{
     flex-wrap: wrap;
     width:450px;
 }
+
+.secondtext{
+    display:flex;
+    justify-content: center;
+    margin-top: 40px;
+    font-size: 36px;
+    color:#1F2937;
+    font-weight: 900;
+}
+
+.secondimage{
+    display:flex;
+    margin-top:80px;
+    gap:30px;
+    justify-content: center;
+}
+
+.seperate{
+    flex-wrap: wrap;
+    width:200px;
+}
+
+.change{
+    border-radius: 25px;
+}
+.ctext{
+    display:flex;
+    text-align: center;
+    flex-wrap: wrap;
+    width:175px;
+}
