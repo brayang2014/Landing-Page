@@ -49,10 +49,12 @@ button{
     background-color:#3882F6;
     color:white;
     text-align: center;
-    padding:12px;
+    padding:8px;
     margin:4px 2px;
     border-radius: 12px;
     width:125px;
+    border: none;
+    font-size:17px;
 }
 
 .subtext{
@@ -120,7 +122,7 @@ button{
     font-size: 40px;
     font-style: italic;
     color: #1F2937;
-    padding: 175px;
+    padding: 150px;
     width:1000px;
 }
 
@@ -139,3 +141,30 @@ button{
     font-size: 30px;
 }
 
+.fourthmain{
+    display: flex;
+    justify-content: center;
+    padding: 100px;
+}
+
+.box{
+    background-color: #3882F6;
+    border-radius:12px;
+    padding:48px;
+    display:flex;
+    gap:300px;
+}
+
+.signtext{
+    font-size: 24px;
+    color: white;
+}
+
+.signsubtext{
+    color:white;
+}
+
+.fourthbutton{
+    border:2px solid white;
+    border-radius:12px;
+}
